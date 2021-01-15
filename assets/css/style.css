@@ -51,7 +51,7 @@
   outline: none;
 }
 
-.text-area:focus{
+.text-area:focus {
   background-color: #fff;
   border-color: rgba(59, 133, 133, .4);
   box-shadow: 0 0 0 2px rgba(1, 191, 189, .1);
@@ -124,7 +124,7 @@
   background-color: #ececec;
 }
 
-.header_text-bottom p{
+.header_text-bottom p {
   color: #949697;
   font-size: 12px;
   display: inline-block;
@@ -187,7 +187,7 @@
   border-radius: 50%;
 }
 
-.gender_input:checked + span:after{
+.gender_input:checked + span:after {
   content: '';
   position: absolute;
   left: 4px;
@@ -274,7 +274,7 @@
 
 /* =============================== */
 
-.remarks_text{
+.remarks_text {
   height: 100px;
 }
 
